@@ -1,0 +1,252 @@
+@media screen and (max-width: 444px){
+	html{
+		font-size: 70%;
+	}
+	#header h2,#header a{
+		font-size: 1.4rem;
+		right: 13rem;
+	}
+	#header button{
+		font-size: 1.2rem;
+		right: 1.5rem;
+	}
+	#main h2{
+		font-size: 2.2rem;
+	}
+	#main p{
+		font-size: 1.7rem;
+	}
+	#search{
+		font-size: 1.8rem;
+		left: 2.5rem;
+	}
+	.packing input{
+		font-size: 2rem;
+	}
+	#location{
+		font-size: 1.8rem;
+	}
+	#main button{
+		font-size: 1.6rem;
+	}
+	#box h2{
+  text-align: center;
+  padding-top: 0.4rem;
+  font-size: 2.2rem;
+}
+#box p{
+  text-align: center;
+  font-size:2rem;
+  position: relative;
+  top: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.boxes{
+  justify-content: space-around;
+  margin: 3rem;
+}
+.boxes img{
+  display: block;
+  margin:auto;
+  width: 10rem;
+  height: 9rem;
+}
+.ind{
+	width: 4rem;
+	padding: 0.4rem;
+	font-size: 1.5rem;
+}
+.number{
+	padding: 0.4rem;
+	width: 13rem;
+}
+.app-content{
+	margin-left: 2rem;
+}
+.app-content h1{
+	font-size: 1.3rem;
+}
+.app-content p{
+	font-size: 1.4rem;
+	padding: 0.5rem;
+}
+.app-content button{
+	width: 18.5rem;
+}
+.super-box{
+	flex-direction: column;
+	justify-content: initial;
+	align-items: flex-start;
+}
+.country-flex{
+	flex-direction: column;
+	justify-content: initial;
+	align-items: flex-start;
+}
+}
+@media screen and (max-width: 324px){
+	html{
+		font-size: 50%;
+	}
+	#header h2,#header a{
+		font-size: 1.6rem;
+		right: 15rem;
+	}
+	#header button{
+		font-size: 1.4rem;
+		right: 1.5rem;
+	}
+	#main h2{
+		font-size: 2.7rem;
+	}
+	#main p{
+		font-size: 2.2rem;
+	}
+	#search{
+		font-size: 2.2rem;
+		left: 3rem;
+	}
+	.packing input{
+		font-size: 2.4rem;
+	}
+	#location{
+		font-size: 2.2rem;
+		right: 2rem;
+	}
+	#main button{
+		font-size: 2rem;
+	}
+	#box h2{
+  text-align: center;
+  padding-top: 0.4rem;
+  font-size: 2.7rem;
+}
+#box p{
+  text-align: center;
+  font-size:2.2rem;
+  position: relative;
+  top: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.boxes{
+  justify-content: space-around;
+  margin: 3rem;
+}
+.boxes img{
+  display: block;
+  margin:auto;
+  width: 11rem;
+  height: 10rem;
+}
+.app-content h1{
+	font-size: 1.3rem;
+}
+.app-content p{
+	font-size: 1.4rem;
+	padding: 0.5rem;
+}
+.ind{
+	width: 4rem;
+	padding: 0.6rem;
+	font-size: 1.5rem;
+}
+.number{
+	padding: 0.6rem;
+	width: 16rem;
+}
+.app-content button{
+	width: 20rem;
+}
+.super-box{
+	flex-direction: column;
+	justify-content: initial;
+	align-items: flex-start;
+}
+.country-flex{
+	flex-direction: column;
+	justify-content: initial;
+	align-items: flex-start;
+}
+.footer-down ul li a{
+  color: #C4C1CA;
+  font-size: 0.4rem;
+}
+}
+@media screen and (max-width: 245px){
+	html{
+		font-size: 40%;
+	}
+	#header h2,#header a{
+		font-size: 1.5rem;
+		right: 14rem;
+	}
+	#header button{
+		font-size: 1.3rem;
+		right: 1.5rem;
+	}
+	#main{
+		height: 300px;
+	}
+	#main h2{
+		font-size: 2.6rem;
+	}
+	#main p{
+		font-size: 2.1rem;
+	}
+	#search{
+		font-size: 2.2rem;
+		left: 3rem;
+		top: 1.4rem;
+	}
+	.packing input{
+		font-size: 2.2rem;
+		padding-top: 1rem;
+		padding-bottom:1rem; 
+	}
+	#location{
+		font-size: 2.2rem;
+		top: 1.4rem;
+
+	}
+	#main button{
+		font-size: 2rem;
+	}
+	#box h2{
+  text-align: center;
+  padding-top: 0.4rem;
+  font-size: 2.6rem;
+}
+#box p{
+  text-align: center;
+  font-size:2.4rem;
+  position: relative;
+  top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.boxes{
+  justify-content: space-around;
+  margin: 3rem;
+}
+.boxes img{
+  display: block;
+  margin:auto;
+  width: 11rem;
+  height: 10rem;
+}
+
+}
+@media screen and (max-width: 200px){
+	html{
+		font-size: 30%;
+	}
+	#header a{
+		right: 15rem;
+	}
+	#main{
+		height: 250px;
+	}
+
+}
